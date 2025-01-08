@@ -67,14 +67,14 @@ print(n4)
 print(n6)
 print(n7)
 print()
-#Задание4
+#Задание 4
 numbers = [1, 5, 6, 8, 10, 21, 25, 1, 0, -9, 9]
 print("Введите число от 1 до 10: ")
 m = int(input())
 m -= 1
 print(numbers[m])
 print()
-#Задание3
+#Задание 3
 age = [24, 35, 42, 27, 45, 48, 33]
 for i in range(len(age)):
  V = age[i]**2
